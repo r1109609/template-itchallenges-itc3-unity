@@ -31,7 +31,7 @@ Maak als je klaar bent een Windows publish van je spel. Deze zet je samen met de
 
 ##### Wat inleveren?
 - Je volledige code (veplicht om te kunnen slagen)
-- Een Windows publish van je spel (om het maximum te kunnen scoren)
+- Een Windows publish van je spel (om het maximum te kunnen scoren) /
 
 ##### Waar inleveren?
 In de repo van de autograder assignment: commit en push je repo voor de deadline (enkel inleveringen op GitHub zullen beoordeeld worden).
